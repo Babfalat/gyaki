@@ -1,3 +1,0 @@
-# gyaki
-hazi
-add "cicas"
